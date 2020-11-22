@@ -10,3 +10,6 @@ for now I know :
 1. NodeJS
 1. Repl.it
 1. CHALK
+1. C++
+1. HTML
+1. CSS

@@ -2,7 +2,7 @@
 
 HEYY !! welcome to my portfolio.
 
-Its coming up tomorrow when I learn HTML and CSS with T anay Pratap live on youtube.
+Its coming up tomorrow when I learn HTML and CSS with Tanay Pratap live on youtube.
 
 for now I know :
 
